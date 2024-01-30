@@ -1,3 +1,5 @@
 # diet-diary-client
 
-1. 문서수정
+## introduce
+
+- 식단, 운동, 기록을 통한 자기관리 어플리케이션
